@@ -1,20 +1,36 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/4xG3FzauZFmUNMcTLy/giphy.gif"  />
+</div>
 
 ###
 
-<p align="left">Hello, my name is Álvaro Masanori Sato and I have a degree in Computer Science at UNESP - Presidente Prudente (2023). Currently working at the company Logicalis in the company's tools and monitoring area and also studying FrontEnd.</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/alvarosato/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/alvarosato_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="twitch.tv/ryuu_o" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  </a>
+</div>
 
 ###
 
-<h2 align="left">About me</h2>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning FrontEnd<br>🎯 Goals: Get a FrontEnd Job and start to put in practice all i the things that a i've learned and of course always be learning more<br>🎲 Fun fact: I try to do everything as simply as possible<br>🎮 Hobby: Play Games (FPS, ARPG), Dance</p>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h2 align="left">I code with</h2>
+<p align="left">Hello, my name is Álvaro Masanori Sato and I have a degree in Computer Science at UNESP - Presidente Prudente (2023). Currently working at the company Logicalis in the company's tools and monitoring area and also studying FrontEnd.<br><br>✨ Creating bugs since 2018<br>📚 I'm currently learning FrontEnd<br>🎯 Goals: Get a FrontEnd Job and start to put in practice all i the things that a i've learned and of course always be learning more<br>🎲 Fun fact: I try to do everything as simply as possible<br>🎮 Hobby: Play Games (FPS, ARPG), Dance</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -36,23 +52,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroSato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlvaroSato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/alvarosato/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/alvarosato_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="twitch.tv/ryuu_o" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroSato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=AlvaroSato&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
